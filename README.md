@@ -1,4 +1,9 @@
 ### Hello! I am João Paulo 👋
+I'm João Paulo, Software Engineering student and Front-End Developer with experience building modern and responsive web applications. I’ve worked on two real-world projects as a React developer, focusing on creating intuitive user interfaces and clean, efficient code.
+
+My main stack includes React, TypeScript, JavaScript, HTML, and CSS, along with experience using Node.js, Express, and Bootstrap. I also enjoy exploring backend development and automation with Python, and I'm constantly learning new technologies to enhance my skills.
+
+I’m driven by curiosity, collaboration, and the desire to turn great ideas into impactful digital experiences.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gon%C3%A7alves-532742234/)
 
