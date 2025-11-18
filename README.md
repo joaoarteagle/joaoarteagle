@@ -5,7 +5,7 @@ My main stack includes React, TypeScript, JavaScript, HTML, and CSS, along with 
 
 I’m driven by curiosity, collaboration, and the desire to turn great ideas into impactful digital experiences.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gon%C3%A7alves-532742234/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joaoandrade2606)
 
 
 ![JoaoArteagle GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoarteagle&show_icons=true&theme=dark)
