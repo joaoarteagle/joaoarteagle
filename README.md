@@ -1,5 +1,5 @@
 ### Hello! I am João Paulo 👋
-I'm João Paulo, Software Engineering student and Front-End Developer with experience building modern and responsive web applications. I’ve worked on two real-world projects as a React developer, focusing on creating intuitive user interfaces and clean, efficient code.
+I'm João Paulo, Software Engineering student and Front-End Developer with experience building modern and responsive web applications. I’ve worked on many projects as a React developer, focusing on creating intuitive user interfaces and clean, efficient code.
 
 My main stack includes React, TypeScript, JavaScript, HTML, and CSS, along with experience using Node.js, Express, and Bootstrap. I also enjoy exploring backend development and automation with Python, and I'm constantly learning new technologies to enhance my skills.
 
